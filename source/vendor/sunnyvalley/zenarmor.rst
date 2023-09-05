@@ -5,7 +5,7 @@ Zenarmor (Sensei): Overview
 About
 ----------------------------
 
-Zenarmor is a plugin for the OPNsense firewall which provides state-of-the-art next-generation features. Zenarmor is developed by Sunny Valley Networks (https://www.zenarmor.com)
+Zenarmor is a plugin for the OPNsense firewall which provides state-of-the-art next-generation features. Zenarmor is developed by Sunny Valley Cyber Security Inc (https://www.zenarmor.com)
 
 If you are running a L4 firewall (all open-source firewalls fall into this category) and looking for features like Application Control, Network Analytics, and TLS Inspection, Zenarmor is the product you're looking for.
 
@@ -49,8 +49,8 @@ User Manual
 
 You can get detailed *How to* documents from Zenarmor's Documentation Site located at https://www.zenarmor.com/docs/opnsense
 
-* `Dashboard <https://www.zenarmor.com/docs/opnsense/customizing-dashboard/dashboard>`_
-* `Status <https://www.zenarmor.com/docs/opnsense/customizing-dashboard/dashboard>`_
+* `Dashboard <https://www.zenarmor.com/docs/opnsense/viewing-node-status/dashboard>`_
+* `Status <https://www.zenarmor.com/docs/opnsense>`_
 * `Reports <https://www.zenarmor.com/docs/opnsense/reporting-analytics/reports-overview>`_
 * `Security <https://www.zenarmor.com/docs/opnsense/policies/security-rules>`_
 * `Application Control <https://www.zenarmor.com/docs/opnsense/policies/application-control-rules>`_
